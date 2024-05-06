@@ -1,0 +1,16 @@
+/* .logout{
+    border-radius: 5px;
+    background-color: aquamarine;
+    width: 75px;
+    height: auto;
+} */
+.button{
+    padding: 20px;
+    cursor: pointer;
+    background-color: var(--color-primary);
+    border: none;
+    border-radius: var(--size-border-radius);
+    width: max-content;
+    text-transform: uppercase;
+    font-weight: bold;
+}
